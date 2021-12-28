@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natasha :)</h1>
 <h3 align="center">A passionate Full-Stack developer.</h3>
 
-<h5 align="center">- 🔭 I’m currently working on [Inception](https://github.com/nlutsevi/inception.git)</h5>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/natasha-lutsevich-54642b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lutsevichnatallia/" height="30" width="40" /></a>
