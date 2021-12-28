@@ -3,7 +3,7 @@
 
 <h5 align="center">- 🔭 I’m currently working on [Inception](https://github.com/nlutsevi/inception.git)</h5>
 
-<h5 align="center">- 🌱 I’m currently learning **System Administration**</h5><br><br>
+<h5 align="center">- 🌱 I’m currently learning **System Administration (Docker)**</h5><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
