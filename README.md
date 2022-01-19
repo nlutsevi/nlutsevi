@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Natasha :)</h1>
 <h3 align="center">A passionate Full-Stack developer.</h3><br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nlutsevi&label=Profile%20views&color=0e75b6&style=flat" alt="nlutsevi" /> </p>
+
 <h5 align="center">- 🔭 I’m currently working on [Inception](https://github.com/nlutsevi/inception.git)</h5>
 
 <h5 align="center">- 🌱 I’m currently learning **System Administration (Docker)**</h5><br><br>
